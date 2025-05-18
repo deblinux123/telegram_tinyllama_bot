@@ -1,0 +1,4 @@
+pandas
+matplotlib
+python-telegram-bot
+llama-cpp-python
